@@ -1,0 +1,13 @@
+{
+  "name": "binarysearch",
+  "version": "1.0.0",
+  "description": "A pesquisa binária é um algoritmo utilizado para encontrar a posição de um elemento em uma lista Sua entrada é uma lista ordenada. Se o elemento buscado estiver na lista, a pesquisa binária retorna a sua localização. Caso contrário, a pesquisa binária retorna None.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
